@@ -2,7 +2,7 @@ const Inicio = () => {
 
 return (
     <> 
-    <H2>Página de Início</H2>
+      <H2>Página de Início</H2>
     </>
 )
 }

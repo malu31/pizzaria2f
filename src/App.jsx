@@ -1,11 +1,11 @@
 import React, {useState} from 'react'
 import {Routes, Route} from 'react-router-dom'
 import Home from './pages/Home'
-import Home from './pages/Inicio'
+import Inicio from './pages/Inicio'
 
 const App = () => {
 
-const [color] = useState("#eb88cc")
+const [color] = useState("#ff77cc")
 document.body.style.backgroundColor = color
 
 return(
